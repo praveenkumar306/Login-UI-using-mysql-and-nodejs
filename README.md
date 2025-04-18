@@ -43,13 +43,13 @@ npm install @react-navigation/bottom-tabs
 npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated
 npm install axios
 npm install react-native-paper
-
+```
 🖥️ Node.js (Backend)
-
+```
 npm install
 
 npm install express cors mysql2 bcryptjs jsonwebtoken
-
+```
 📝 Setup Instructions
 Clone the repository:
 ```
@@ -61,5 +61,5 @@ Install frontend dependencies:
 npm install
 Run the app:
 npm start
-Backend Setup (Node.js):
+```
 
